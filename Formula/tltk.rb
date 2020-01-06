@@ -1,8 +1,8 @@
-class tltk < Formula
+class Tltk < Formula
   desc "Patrick's Tiny Little Toolkit"
   homepage "https://github.com/patrick330602/tltk"
   url "https://github.com/patrick330602/tltk/archive/v0.7.tar.gz"
-  sha256 "76f92957780863d0447edf32162ecc3a1b3601b4"
+  sha256 "94d8734ac5a0ea1fbd82505c90477f56d9329585f68b2856401f05f16a5a7a4e"
   head "https://github.com/patrick330602/tltk.git"
 
   depends_on "python"

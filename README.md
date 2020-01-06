@@ -1,4 +1,6 @@
-# Patrick330602 Tltk
+# tltk on homebrew
+
+This is my tiny little toolkit for using on homebrew. Also works in Linuxbrew.
 
 ## How do I install these formulae?
 `brew install patrick330602/tltk/<formula>`
@@ -13,4 +15,3 @@ brew install https://raw.githubusercontent.com/patrick330602/homebrew-tltk/maste
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
-# homebrew-tltk

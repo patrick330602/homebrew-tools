@@ -1,11 +1,11 @@
-# tltk on homebrew
+# My homebrew tools
 
-This is my tiny little toolkit for using on homebrew. Also works in Linuxbrew.
+This is my tools available for using via homebrew. Should also work in Linuxbrew.
 
 ## How do I install these formulae?
-`brew install patrick330602/tltk/<formula>`
+`brew install patrick330602/tools/<formula>`
 
-Or `brew tap patrick330602/tltk` and then `brew install <formula>`.
+Or `brew tap patrick330602/tools` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 

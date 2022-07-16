@@ -1,8 +1,8 @@
 class Tltk < Formula
   desc "Patrick's Tiny Little Toolkit"
   homepage "https://github.com/patrick330602/tltk"
-  url "https://github.com/patrick330602/tltk/archive/v0.7.tar.gz"
-  sha256 "94d8734ac5a0ea1fbd82505c90477f56d9329585f68b2856401f05f16a5a7a4e"
+  url "https://github.com/patrick330602/tltk/archive/v0.8.tar.gz"
+  sha256 "6a96173373107c53c4963c452eec8a8336fe6aab714af5db6f071a4364a9d074"
   head "https://github.com/patrick330602/tltk.git"
 
   depends_on "python"
@@ -15,5 +15,6 @@ class Tltk < Formula
     system "cp", "-p", "src/pswd-gen", "#{prefix}/bin/pswd-gen"
     system "cp", "-p", "src/tumblr", "#{prefix}/bin/tumblr"
     system "cp", "-p", "src/unzip-jp", "#{prefix}/bin/unzip-jp"
+    system "cp", "-p", "src/get-ba-ost", "#{prefix}/bin/get-ba-ost"
   end
 end

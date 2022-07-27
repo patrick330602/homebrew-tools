@@ -1,6 +1,7 @@
 class Tltk < Formula
   desc "Patrick's Tiny Little Toolkit"
   homepage "https://github.com/patrick330602/tltk"
+  version "0.9.0"
   url "https://github.com/patrick330602/tltk/archive/v0.9.tar.gz"
   sha256 "be488e6db9c8cf1959195ee38d8dc9caed77c2403402e84a1dcc37fc15c36cc0"
   head "https://github.com/patrick330602/tltk.git"
